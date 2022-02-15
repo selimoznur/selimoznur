@@ -14,4 +14,4 @@ Soru Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 ##Soru Dizinin Big-O gösterimini yazınız.
 
-##O(nlogn)
+##O(logn)
