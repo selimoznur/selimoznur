@@ -17,10 +17,11 @@ O(n)
 Soru Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 Time Complexity
-Average case: Aradığımız sayının ortada olması.
-Worst case: Aradığımız sayının sonda olması.
-Best case: Aradığımız sayının dizinin en başında olması.
+
 18 elamanı Average Case kapsamına girer.
+
+
+
 [7,3,5,8,2,9,4,15,6]
 Soru Yukarıdaki dizinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
